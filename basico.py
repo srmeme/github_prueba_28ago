@@ -1,5 +1,7 @@
 def run():
-    pass
+    #pass
+    name = input("Hola, ¿Cual es tu nombre usuario?: ")
+    print(name)
 
 
 if __name__ == "__main__":
